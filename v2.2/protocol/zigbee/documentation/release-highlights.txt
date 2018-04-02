@@ -1,0 +1,17 @@
+What's new in EmberZnet 6.2.3.0:
+  * Enhanced Zigbee 3.0 Compliance
+    - Green Power Proxy Basic updates
+    - Added Touchlink support
+    - Additional Clusters support
+
+What's new in EmberZnet 6.2.2.0:
+  * Bug fixes
+
+What's new in EmberZNet 6.2.1.0:
+  * Add support for QFN68 variants of EFR32xG12
+
+What's new in EmberZNet 6.2.0.0:
+  * Zigbee 3.0 Compliance Improvements – Green Power Proxy Basic, Touchlink, Enhanced Cluster Support
+  * Improved LQI/RSSI link cost mapping to improve routing performance in hybrid networks with both EFR32MG and EM35xx devices.
+  * Support for EFR32MG14 SoCs
+  * Bug fixes

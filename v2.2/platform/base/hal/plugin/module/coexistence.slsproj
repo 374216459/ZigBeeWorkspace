@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project id="SDK.HAL.COEX.BASE">
+  <folder name="coexistence" partCompatibility="mcu.arm.efr32.*">
+    <file name="coexistence-efr32.c" uri="$(sdkInstallationPath)/platform/base/hal/plugin/coexistence/coexistence-efr32.c"/>
+  </folder>
+</project>
